@@ -1,3 +1,11 @@
+# training-kit
+
+> Training kit — courseware for Git and infrastructure. Proprietary BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # GitHub Training Kit
 
 open-access courseware from the GitHub Professional Services team.
